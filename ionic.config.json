@@ -1,0 +1,7 @@
+{
+  "name": "assetledger",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
